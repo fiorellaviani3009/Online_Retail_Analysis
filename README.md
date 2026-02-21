@@ -17,14 +17,14 @@ and operations for SMEs.
 
 ---
 
-## Project!!!
+## Project
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [SME Sales Analysis](https://github.com/fiorellaviani3009/OnlineRetailAnalysis-FiorellaViani) | Descriptive sales analysis of a UK wholesale retailer: weekly, monthly and annual patterns, top products, seasonality and country dominance | Python, pandas, matplotlib |
+| [SME Sales Analysis]((https://github.com/fiorellaviani3009/Online_Retail_Analysis)) | Descriptive sales analysis of a UK wholesale retailer: weekly, monthly and annual patterns, top products, seasonality and country dominance | Python, pandas, matplotlib |
 
 ---
 
-## Contact me!
+## Contact
 - 💼 [LinkedIn](https://linkedin.com/in/fiorella-viani-21b2b33a8)
 - 📧 fiorella.viani3009@gmail.com
 - 🌍 Available for remote freelance projects
