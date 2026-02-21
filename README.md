@@ -1,4 +1,4 @@
-# I'm Fiorella!
+# Hi, I´m Fiorella!
 **Junior Data Analyst** · Data Science Student at UCA (GPA 8.50/10)
 
 I've been working with Python self-taught for over 4 years.
@@ -17,10 +17,10 @@ and operations for SMEs.
 
 ---
 
-## Project
+## Projects
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [SME Sales Analysis]((https://github.com/fiorellaviani3009/Online_Retail_Analysis)) | Descriptive sales analysis of a UK wholesale retailer: weekly, monthly and annual patterns, top products, seasonality and country dominance | Python, pandas, matplotlib |
+| [SME Sales Analysis](https://github.com/fiorellaviani3009/Online_Retail_Analysis) | Descriptive sales analysis of a UK wholesale retailer: weekly, monthly and annual patterns, top products, seasonality and country dominance | Python, pandas, matplotlib |
 
 ---
 
